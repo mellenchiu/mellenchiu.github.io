@@ -1,0 +1,42 @@
+# Mai-Lun Chiu, Ph.D. (邱美倫 教授)
+
+> Professor, General Education Center, and Chief Librarian (Director, Library and Information Office), National Kaohsiung University of Hospitality and Tourism (NKUHT, 國立高雄餐旅大學), Taiwan. Research on knowledge-driven innovation: generative AI in higher education, open innovation, absorptive capacity, knowledge management, supply-chain collaboration, online impulse buying, loyalty programs and smart hospitality.
+
+- Name variants: Mai-Lun Chiu; Chiu, Mai-Lun; Chiu, Mai Lun; 邱美倫; Mellen Chiu
+- Email (full-text requests): mlchiu@staff.nkuht.edu.tw
+- ORCID: https://orcid.org/0000-0001-6545-575X
+- Scopus Author ID 55930109800: https://www.scopus.com/authid/detail.uri?authorId=55930109800
+- OpenAlex: https://openalex.org/A5050498263
+- ResearchGate: https://www.researchgate.net/profile/Mai-Lun-Chiu
+
+## Research impact (as of November 2026)
+- Scopus: 943 citations by 902 documents, h-index 8, Field-Weighted Citation Impact (FWCI) 3.56 (world average = 1.00)
+- Scopus: 70% of outputs in the world's top 25% most-cited; 75% in top-25% journals (CiteScore)
+- Google Scholar: 1,690 citations, h-index 9
+- Most-cited paper: International Journal of Information Management (2020), 450+ citations (OpenAlex)
+- PI of 11 NSTC grants; 36+ funded projects; NSTC Research Award 2024 and 2026
+
+## Education
+- Ph.D. Information Management, National Chung Cheng University (2016)
+- M.S. and B.S. Information Management, Nanhua University
+
+## Ministry of Education AI initiatives
+- AI + Smart Hospitality Talent Cultivation Program (MOE, 2025–2026, PI, NT$3,000,000)
+- Smart Hospitality Practice Lab and AI Teaching Transformation (MOE, 2025–2026, PI, NT$4,500,000)
+- Fuda AI Smart Tourism Integration Platform (2026, Co-PI, NT$2,755,000)
+- University Alliance for Digital Learning and Innovative Applications (MOE, 2024–2026, Co-PI, NT$1,450,000)
+- NSTC GenAI-in-higher-education grants 2023–2026 (learning resilience, user awareness, AI chatbots)
+
+## Selected journal articles (summaries only; full text on request by email)
+- Chiu & Lin (2026). Aligning tourists' needs with loyalty programs: A framework for enhancing brand loyalty. Journal of Destination Marketing & Management. https://doi.org/10.1016/j.jdmm.2026.101129 — Survey of 571 participants: loyalty programs combining intrinsic rewards and financial incentives build stronger loyalty; social media engagement enhances effectiveness; product involvement moderates.
+- Chiu (2025). Exploring user awareness and perceived usefulness of generative AI in higher education: The moderating role of trust. Education and Information Technologies (SSCI Q1, sole author). https://doi.org/10.1007/s10639-025-13612-7 — Status-quo bias + technology affordance model; affordances raise awareness, resistance lowers it; trust negatively moderates accountability (compensatory mechanism).
+- Chiu, Cheng & Lin (2024). Driving open innovation capability through new knowledge diffusion... Journal of the Knowledge Economy (SSCI Q1). https://doi.org/10.1007/s13132-023-01315-8 — TOE + motivation theory; individual absorptive capacity moderates diffusion → innovation capability.
+- Chiu, Chiao & Lin (2024). The mediating role of absorptive capability ... social media on open inbound innovation. Information Systems Frontiers (SCI Q1). https://doi.org/10.1007/s10796-023-10381-x — Multi-level study; social-media internalization → socialization → absorptive capability → inbound open innovation.
+- Chiu & Lin (2022). Developing supply chain open innovation capability... Journal of Innovation & Knowledge (SSCI Q1, IF 15.6). https://doi.org/10.1016/j.jik.2022.100264 — IoT/cloud technology drives open innovation capability more than formal or relational governance, via knowledge creation.
+- Cheng, Chen, Chiu & Su (2022). Artificial intelligence in weaning clinical practice. Indonesian Journal of Business Analytics. https://doi.org/10.55927/ijba.v2i2.1252 — C4.5 decision tree on 1,014 ventilator-weaning cases; 17 clinical rules.
+- Hung, Talley, Kuo & Chiu (2021). Exploring cloud-based bookstore continuance from a deconstructed task–technology fit perspective. JTAER (SSCI Q1). https://doi.org/10.3390/jtaer16030023
+- Wu, Chiu & Chen (2020). Defining the determinants of online impulse buying... International Journal of Information Management (SSCI Q1). https://doi.org/10.1016/j.ijinfomgt.2020.102099 — Perceived risk + expectation-confirmation + flow theory.
+- Li, Hung, Hsian, Heung, Chiu & Wang (2019). Teaching ecosystem design: Teachers' satisfaction with the Integrated Course Service System in Taiwan. Education Sciences. https://doi.org/10.3390/educsci9030232
+- Wu & Chiu (2018). Examining supply chain collaboration with determinants and performance impact: Social capital, justice, and technology use perspectives. IJIM (SSCI Q1). https://doi.org/10.1016/j.ijinfomgt.2017.11.004
+- Wu, Chen & Chiu (2016). Defining key drivers of online impulse purchasing: A perspective of both impulse shoppers and system users. IJIM (SSCI Q1). https://doi.org/10.1016/j.ijinfomgt.2015.11.015
+- Wu & Chiu (2015). Organizational applications of IT innovation and firm's competitive performance. Journal of Engineering and Technology Management (SSCI). https://doi.org/10.1016/j.jengtecman.2014.09.002
