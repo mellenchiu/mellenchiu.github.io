@@ -4,6 +4,7 @@
 
 - Name variants: Mai-Lun Chiu; Chiu, Mai-Lun; Chiu, Mai Lun; 邱美倫; Mellen Chiu
 - Email (full-text requests): mlchiu@staff.nkuht.edu.tw
+- Google Scholar: https://scholar.google.com/citations?user=4PcZqNAAAAAJ
 - ORCID: https://orcid.org/0000-0001-6545-575X
 - Scopus Author ID 55930109800: https://www.scopus.com/authid/detail.uri?authorId=55930109800
 - OpenAlex: https://openalex.org/A5050498263
@@ -18,7 +19,6 @@
 
 ## Education
 - Ph.D. Information Management, National Chung Cheng University (2016)
-- M.S. and B.S. Information Management, Nanhua University
 
 ## Ministry of Education AI initiatives
 - AI + Smart Hospitality Talent Cultivation Program (MOE, 2025–2026, PI, NT$3,000,000)
