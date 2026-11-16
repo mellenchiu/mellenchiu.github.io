@@ -42,6 +42,7 @@ Image Processing and AI Applications; Logical Thinking and Data Management; Prog
 
 ## Ministry of Education AI initiatives
 - AI + Smart Hospitality Talent Cultivation Program (MOE, 2025–2026, PI, NT$3,000,000)
+- FEAST AI Smart Hospitality Innovation Talent Program (FEAST AI智慧餐飲創新人才培育計畫; MOE, 2026/05–2027/01, Co-PI, NT$3,000,000): students work on-site with hospitality businesses using AI tools to solve real pain points; partners Yong Xin Feng Cha (永心鳳茶), Xinchao Hotel (心潮飯店), InterContinental Hotel (洲際酒店), Hotel Nikko (日航酒店)
 - Smart Hospitality Practice Lab and AI Teaching Transformation (MOE, 2025–2026, PI, NT$4,500,000)
 - Fuda AI Smart Tourism Integration Platform (2026, Co-PI, NT$2,755,000)
 - University Alliance for Digital Learning and Innovative Applications (MOE, 2024–2026, Co-PI, NT$1,450,000)
