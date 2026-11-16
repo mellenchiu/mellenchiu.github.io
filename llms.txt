@@ -1,6 +1,6 @@
 # Mai-Lun Chiu, Ph.D. (邱美倫 教授)
 
-> Professor, General Education Center, and Chief Librarian (Director, Library and Information Office), National Kaohsiung University of Hospitality and Tourism (NKUHT, 國立高雄餐旅大學), Taiwan. Research on knowledge-driven innovation: generative AI in higher education, open innovation, absorptive capacity, knowledge management, supply-chain collaboration, online impulse buying, loyalty programs and smart hospitality.
+> Professor, Natural and Applied Sciences, General Education Center; Dean, Library and Information Services Office (圖資長); and Executive Director, Campus AI Initiative (校園AI推動執行長, since Sep 2026), National Kaohsiung University of Hospitality and Tourism (NKUHT, 國立高雄餐旅大學), Taiwan. Research on knowledge-driven innovation: generative AI in higher education, open innovation, absorptive capacity, knowledge management, supply-chain collaboration, online impulse buying, loyalty programs and smart hospitality.
 
 - Name variants: Mai-Lun Chiu; Chiu, Mai-Lun; Chiu, Mai Lun; 邱美倫; Mellen Chiu
 - Email (full-text requests): mlchiu@staff.nkuht.edu.tw
@@ -16,6 +16,26 @@
 - Google Scholar: 1,690 citations, h-index 9
 - Most-cited paper: International Journal of Information Management (2020), 450+ citations (OpenAlex)
 - PI of 11 NSTC grants; 36+ funded projects; NSTC Research Award 2024 and 2026
+
+## Expertise
+Smart hospitality; applied AI; IT education; digital marketing; business education; supply chain and organizational innovation; data analytics; e-commerce.
+
+## Courses taught
+Image Processing and AI Applications; Logical Thinking and Data Management; Programming; Statistics; Web Crawling and Programming; Big Data Visualization and Analytics; Introduction to Computer Science.
+
+## Certifications
+- ISO/IEC 27701:2025 Privacy Information Management System Lead Auditor (SGS)
+- ISO/IEC 27001:2022 Information Security Management System Lead Auditor (TKSG)
+- Cybersecurity Competency Assessment: Introduction to Cybersecurity (Ministry of Digital Affairs, Taiwan)
+- Google Gemini Certified Educator; Google Analytics Individual Qualification; Google Ads Search; Google Ads Video
+- SAP S/4HANA ERP Application Engineer (Distribution Module)
+- TQC Information Technology (Python); TQC IoT Development Core Knowledge & IoT Interactive Technology
+- MIT App Inventor 2 eBusiness App Developer
+- Microsoft Office Specialist Master; CyberLink PowerDirector; Adobe Illustrator
+
+## Academic service
+- Reviewer (international journals): Internet Research; Journal of Knowledge Management; Transportation
+- Reviewer (Taiwan journals): Journal of Information Management (資訊管理學報); Journal of e-Business (電子商務學報)
 
 ## Education
 - Ph.D. Information Management, National Chung Cheng University (2016)
